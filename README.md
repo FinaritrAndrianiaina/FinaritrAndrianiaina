@@ -5,4 +5,4 @@ Check my website to know more about me:
 
 #### Just a picture that I love
 
-<img src="/IMG_20201225_085825358~3.jpg" width="100%" alt="cover photo"/>
+<img src="/IMG_20201225_085825358~3.webp" width="100%" alt="cover photo"/>
