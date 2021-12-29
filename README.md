@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align=center>  <strong>
+<img src='https://komarev.com/ghpvc/?username=FinaritrAndrianiaina&color=000080'>
+</strong> <p>
+
 Check my website to know more about me:
 [https://finaritra.me](https://finaritra.vercel.app)
 
