@@ -16,6 +16,10 @@
 Check my website to know more about me:
 [https://finaritra.me](https://finaritra.vercel.app)
 
+- 🌱 I’m currently learning **Rust Wasm, Tokio.rs**
+
+- 💬 Ask me about **React, GraphQL, Ethereum**
+  
  <p align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=FinaritrAndrianiaina&show_icons=true&theme=synthwave&count_private=true" width="100%" alt="cover photo"/>
 </p>
