@@ -29,10 +29,6 @@ Check my website to know more about me:
 </p>
 
 <p align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinaritrAndrianiaina&show_icons=true&theme=synthwave&count_private=true" width="100%" alt="cover photo"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
