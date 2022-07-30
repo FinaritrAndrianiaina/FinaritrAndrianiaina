@@ -14,9 +14,9 @@
  <p>
 
 Check my website to know more about me:
-[https://finaritra.me](https://finaritra.vercel.app)
+[https://finaritra.vercel.app](https://finaritra.vercel.app)
 
-- 🌱 I’m currently learning **WebAssembly, Tokio and Rust**
+- 🌱 I’m currently learning **Svelte and Rust**
 
 - 💬 Ask me about **React, GraphQL, Ethereum**
   
