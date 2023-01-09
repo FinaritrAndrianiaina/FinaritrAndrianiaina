@@ -18,7 +18,7 @@ Check my website to know more about me:
 
 - 🌱 I’m currently learning **Svelte and Rust**
 
-- 💬 Ask me about **React, GraphQL, Ethereum**
+- 💬 Have some experience on **React, GraphQL, Java and Spring Boot**
   
  <p align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=FinaritrAndrianiaina&show_icons=true&theme=synthwave&count_private=true" width="100%" alt="cover photo"/>
