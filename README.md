@@ -16,7 +16,7 @@
 Check my website to know more about me:
 [https://finaritra.vercel.app](https://finaritra.vercel.app)
 
-- 🌱 I’m currently learning **Svelte and Golang (give up rust because too difficult for a backend prefer pocketbase as framework :D)**
+- 🌱 I’m currently learning **:)**
 
 - 💬 Have some experience on **React, GraphQL, Java and Spring Boot**
   
