@@ -30,6 +30,7 @@ Check my website to know more about me:
 </p>
 
 <p align="center">
- <video alt="Cowboy Bebop Computer GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1hMjQ4eHZqdWV2NWx1ZGNuamUzY21hZTV3cHptdDRsbzBtMnBxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.mp4" poster="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1hMjQ4eHZqdWV2NWx1ZGNuamUzY21hZTV3cHptdDRsbzBtMnBxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy_s.gif" autoplay="" loop="" playsinline="" style="width: 500px; height: 363.333px; left: 0px; top: 0px;"></video>
+
+ <img width="300" src="https://raw.githubusercontent.com/FinaritrAndrianiaina/FinaritrAndrianiaina/refs/heads/main/giphy.webp"/>
 </p>
 
