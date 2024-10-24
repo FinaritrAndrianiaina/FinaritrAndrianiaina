@@ -16,9 +16,7 @@
 Check my website to know more about me:
 [https://finaritra.vercel.app](https://finaritra.vercel.app)
 
-- 🌱 I’m currently learning because life is about learning **:)**
-
-- 💬 Have some experience on **React, GraphQL, Java and Spring Boot**
+- 💬 Have experience with building **React, GraphQL, NestJS, AWS, Java and Spring Boot**
   
  <p align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=FinaritrAndrianiaina&show_icons=true&theme=synthwave&count_private=true" width="100%" alt="cover photo"/>
