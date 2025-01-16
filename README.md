@@ -13,7 +13,7 @@
 Check my website to know more about me:
 [https://finaritra.vercel.app](https://finaritra.vercel.app)
 
-- 💬 Have experience with building **React, GraphQL, NestJS, AWS, Java and Spring Boot**
+- 💬 Have experience with building things in **React, Tauri, GraphQL, NestJS, AWS, Java and Spring Boot**
   
 <p align="center">
 
