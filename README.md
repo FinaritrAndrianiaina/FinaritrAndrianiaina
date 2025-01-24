@@ -5,13 +5,13 @@
 </a>
 
 <!--Portfolio-->
-<a href="https://finaritra.vercel.app/" rel="nofollow">
+<a href="https://finaritra.softicraft.tech/about/" rel="nofollow">
 
 
  <p>
 
 Check my website to know more about me:
-[https://finaritra.vercel.app](https://finaritra.vercel.app)
+[https://finaritra.softicraft.tech/](https://finaritra.softicraft.tech/about)
 
 - 💬 Have experience with building things in **React, Tauri, GraphQL, NestJS, AWS, Java and Spring Boot**
   
